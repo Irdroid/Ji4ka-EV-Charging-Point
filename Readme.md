@@ -12,6 +12,8 @@ The power source from the electricity utility provides for up to 7KW single phas
 
 Decision was made to extend one of the existing sockets, install surface mount cabling (Approx 2 meters) and install a protected Schuco socket outside of the office.This allows for convenient  connection with a AC Charging cable to the EV parked in front of the office ( When the parking place is available :) ).
 
+![Wiring Diagram](https://raw.githubusercontent.com/Irdroid/Ji4ka-EV-Charging-Point/refs/heads/main/hardware/Diagram1.png)
+
 For the outdoor Schuko sockets, we picked a IP55 socket which has a locking function with a key and it is rated 250V/16A. It is installed on the inner side of the roller shutter between the window frame and the roller shutter, which gives additional safety and also protection.
 
 For a junction from the existing Schuko sockets Schneider Asfora hard cable module was used, which makes the junction look better. 
