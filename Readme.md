@@ -16,6 +16,8 @@ Decision was made to extend one of the existing sockets, install surface mount c
 
 For the outdoor Schuko sockets, we picked a IP55 socket which has a locking function with a key and it is rated 250V/16A. It is installed on the inner side of the roller shutter between the window frame and the roller shutter, which gives additional safety and also protection.
 
+![Outdoor socket](https://raw.githubusercontent.com/Irdroid/Ji4ka-EV-Charging-Point/refs/heads/main/images/PXL_20251218_124439708.jpg)
+
 For a junction from the existing Schuko sockets Schneider Asfora hard cable module was used, which makes the junction look better. 
 
 Due to the fact that there are other consumers connected at the same residual current protection, a smart power meter is not envisaged. All customers will charge their EVs using Ji4ka's Type 2 cable with built-in power meter available at the site. 
