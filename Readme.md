@@ -18,7 +18,9 @@ For the outdoor Schuko sockets, we picked a IP55 socket which has a locking func
 
 ![Outdoor socket](https://raw.githubusercontent.com/Irdroid/Ji4ka-EV-Charging-Point/refs/heads/main/images/PXL_20251218_124439708.jpg)
 
-For a junction from the existing Schuko sockets Schneider Asfora hard cable module was used, which makes the junction look better. 
+For a junction from the existing Schuko sockets Schneider Asfora hard cable module was used, which makes the junction look better.
+
+![Indoor Cabling](https://raw.githubusercontent.com/Irdroid/Ji4ka-EV-Charging-Point/refs/heads/main/images/PXL_20251217_140725267.jpg)
 
 Due to the fact that there are other consumers connected at the same residual current protection, a smart power meter is not envisaged. All customers will charge their EVs using Ji4ka's Type 2 cable with built-in power meter available at the site. 
 
