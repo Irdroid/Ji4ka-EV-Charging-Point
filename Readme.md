@@ -27,3 +27,5 @@ Due to the fact that there are other consumers connected at the same residual cu
 With the above setup, a customer with a need for EV charging can draw some AMPs directly at the site while working, which for a 8 hour charging gives about 28KWh, more than enough for city driving.
 
 If you also need such a home/office EV charging point, let us know and will design and install one for you. Leave an email to info@irdroid.com with your particular requirements.
+
+TODO: Metering
